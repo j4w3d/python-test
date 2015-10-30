@@ -1,0 +1,116 @@
+Source Code
+ |   manage.py
+ |   settings.py
+ |   __init__.py
+ |   
+ +---chapter11
+ |    |   __init__.py
+ |    |   
+ |    +---current_user
+ |    |    |   registration.py
+ |    |    |   models.py
+ |    |    |   middleware.py
+ |    |    |   __init__.py
+ |    |    |   
+ |    +---history
+ |    |    |   models.py
+ |    |    |   manager.py
+ |    |    |   __init__.py
+ |    |    |   
+ +---chapter4
+ |    |   views.py
+ |    |   __init__.py
+ |    |   decorators.py
+ |    |   
+ |    +---logging
+ |    |    |   models.py
+ |    |    |   __init__.py
+ |    |    |   decorators.py
+ |    |    |   
+ +---chapter5
+ |    |   widgets.py
+ |    |   fields.py
+ |    |   __init__.py
+ |    |   forms.py
+ |    |   
+ |    +---pend_form
+ |    |    |   models.py
+ |    |    |   __init__.py
+ |    |    |   decorators.py
+ |    |    |   forms.py
+ |    |    |   
+ +---chapter7
+ |    |   middleware.py
+ |    |   __init__.py
+ |    |   
+ |    +---signedcookies
+ |    |    |   middleware.py
+ |    |    |   __init__.py
+ |    |    |   
+ +---chapter10
+ |    |   __init__.py
+ |    |   
+ |    +---properties
+ |    |    |   urls.py
+ |    |    |   models.py
+ |    |    |   __init__.py
+ |    |    |   admin.py
+ |    |    |   
+ |    +---contacts
+ |    |    |   urls.py
+ |    |    |   models.py
+ |    |    |   views.py
+ |    |    |   __init__.py
+ |    |    |   admin.py
+ |    |    |   forms.py
+ |    |    |   
+ +---chapter8
+ |    |   context_processors.py
+ |    |   virushandler.py
+ |    |   __init__.py
+ |    |   
+ |    +---jinja
+ |    |    |   jinjaloader.py
+ |    |    |   __init__.py
+ |    |    |   
+ |    |    +---templatetags
+ |    |    |    |   jinja.py
+ |    |    |    |   __init__.py
+ |    |    |    |   
+ +---chapter2
+ |    |   decorator.py
+ |    |   plugins.py
+ |    |   fibonacci.py
+ |    |   __init__.py
+ |    |   tracking.py
+ |    |   
+ +---chapter3
+ |    |   createmodel.py
+ |    |   durationfield.py
+ |    |   picklefield.py
+ |    |   appreport.py
+ |    |   __init__.py
+ |    |   
+ +---chapter6
+ |    |   __init__.py
+ |    |   
+ |    +---templates
+ |    |    |   base.html
+ |    |    |   index.html
+ |    |    |   
+ |    +---themes
+ |    |    |   context_processors.py
+ |    |    |   models.py
+ |    |    |   manager.py
+ |    |    |   __init__.py
+ |    |    |   forms.py
+ |    |    |   
+ |    |    +---fixtures
+ |    |    |    |   example.json
+ |    |    |    |   
+ |    +---templatetags
+ |    |    |   simple_tags.py
+ |    |    |   tags.py
+ |    |    |   jinja.py
+ |    |    |   filters.py
+ |    |    |   

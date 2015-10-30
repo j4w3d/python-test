@@ -1,0 +1,18 @@
+<div class="header">
+                <div class="logo">
+                    <a href="#">
+                        <span class="app-name"><b>jsMonit</b> <small>(server monitor)</small></span>
+                    </a>
+                </div>
+                <div class="top-nav">
+                    <div class="host-info">
+                        <div class="name">
+                             <span class="hostname">{{ hostname }}</span>
+                        </div>
+                        <div class="info">
+                            {{ os }}, uptime: {{ uptime }} 
+                        </div>
+                    </div>
+                    
+                </div>
+            </div>

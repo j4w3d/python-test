@@ -1,0 +1,493 @@
+
+FILE1#../Source Code/manage.py
+		size:557 Bytes
+		created:Thu Sep 10 10:20:43 2015
+		modified:Wed Feb  6 21:12:46 2008
+		Access:Thu Sep 10 10:20:43 2015
+-----------------------------------------------------------------------------------
+
+FILE2#../Source Code/settings.py
+		size:3.05 KB
+		created:Thu Sep 10 10:20:43 2015
+		modified:Mon Nov 24 19:49:18 2008
+		Access:Thu Sep 10 10:20:43 2015
+-----------------------------------------------------------------------------------
+
+FILE3#../Source Code/__init__.py
+		size:0 Bytes
+		created:Thu Sep 10 10:20:43 2015
+		modified:Tue Nov 18 18:38:02 2008
+		Access:Thu Sep 10 10:20:43 2015
+-----------------------------------------------------------------------------------
+
+FILE4#../Source Code/chapter11/__init__.py
+		size:0 Bytes
+		created:Thu Sep 10 10:20:43 2015
+		modified:Mon Nov 24 19:02:18 2008
+		Access:Thu Sep 10 10:20:43 2015
+-----------------------------------------------------------------------------------
+
+FILE5#../Source Code/chapter11/current_user/registration.py
+		size:349 Bytes
+		created:Thu Sep 10 10:20:43 2015
+		modified:Mon Nov 24 19:02:54 2008
+		Access:Thu Sep 10 10:20:43 2015
+-----------------------------------------------------------------------------------
+
+FILE6#../Source Code/chapter11/current_user/models.py
+		size:476 Bytes
+		created:Thu Sep 10 10:20:43 2015
+		modified:Mon Nov 24 19:06:04 2008
+		Access:Thu Sep 10 10:20:43 2015
+-----------------------------------------------------------------------------------
+
+FILE7#../Source Code/chapter11/current_user/middleware.py
+		size:1.17 KB
+		created:Thu Sep 10 10:20:43 2015
+		modified:Mon Nov 24 19:09:42 2008
+		Access:Thu Sep 10 10:20:43 2015
+-----------------------------------------------------------------------------------
+
+FILE8#../Source Code/chapter11/current_user/__init__.py
+		size:0 Bytes
+		created:Thu Sep 10 10:20:43 2015
+		modified:Mon Nov 24 19:02:08 2008
+		Access:Thu Sep 10 10:20:43 2015
+-----------------------------------------------------------------------------------
+
+FILE9#../Source Code/chapter11/history/models.py
+		size:4.27 KB
+		created:Thu Sep 10 10:20:43 2015
+		modified:Mon Nov 24 19:29:38 2008
+		Access:Thu Sep 10 10:20:43 2015
+-----------------------------------------------------------------------------------
+
+FILE10#../Source Code/chapter11/history/manager.py
+		size:2.35 KB
+		created:Thu Sep 10 10:20:43 2015
+		modified:Mon Nov 24 19:31:46 2008
+		Access:Thu Sep 10 10:20:43 2015
+-----------------------------------------------------------------------------------
+
+FILE11#../Source Code/chapter11/history/__init__.py
+		size:0 Bytes
+		created:Thu Sep 10 10:20:43 2015
+		modified:Mon Nov 24 19:02:18 2008
+		Access:Thu Sep 10 10:20:43 2015
+-----------------------------------------------------------------------------------
+
+FILE12#../Source Code/chapter4/views.py
+		size:693 Bytes
+		created:Thu Sep 10 10:20:43 2015
+		modified:Tue Nov 18 18:42:10 2008
+		Access:Thu Sep 10 10:20:43 2015
+-----------------------------------------------------------------------------------
+
+FILE13#../Source Code/chapter4/__init__.py
+		size:0 Bytes
+		created:Thu Sep 10 10:20:43 2015
+		modified:Tue Nov 18 18:40:36 2008
+		Access:Thu Sep 10 10:20:43 2015
+-----------------------------------------------------------------------------------
+
+FILE14#../Source Code/chapter4/decorators.py
+		size:1.88 KB
+		created:Thu Sep 10 10:20:43 2015
+		modified:Tue Nov 18 19:15:06 2008
+		Access:Thu Sep 10 10:20:43 2015
+-----------------------------------------------------------------------------------
+
+FILE15#../Source Code/chapter4/logging/models.py
+		size:298 Bytes
+		created:Thu Sep 10 10:20:43 2015
+		modified:Sun Nov  9 23:22:54 2008
+		Access:Thu Sep 10 10:20:43 2015
+-----------------------------------------------------------------------------------
+
+FILE16#../Source Code/chapter4/logging/__init__.py
+		size:0 Bytes
+		created:Thu Sep 10 10:20:43 2015
+		modified:Tue Nov 18 18:40:30 2008
+		Access:Thu Sep 10 10:20:43 2015
+-----------------------------------------------------------------------------------
+
+FILE17#../Source Code/chapter4/logging/decorators.py
+		size:670 Bytes
+		created:Thu Sep 10 10:20:43 2015
+		modified:Fri Nov 21 21:43:48 2008
+		Access:Thu Sep 10 10:20:43 2015
+-----------------------------------------------------------------------------------
+
+FILE18#../Source Code/chapter5/widgets.py
+		size:359 Bytes
+		created:Thu Sep 10 10:20:43 2015
+		modified:Tue Nov 18 19:38:34 2008
+		Access:Thu Sep 10 10:20:43 2015
+-----------------------------------------------------------------------------------
+
+FILE19#../Source Code/chapter5/fields.py
+		size:761 Bytes
+		created:Thu Sep 10 10:20:43 2015
+		modified:Tue Nov 18 19:27:08 2008
+		Access:Thu Sep 10 10:20:43 2015
+-----------------------------------------------------------------------------------
+
+FILE20#../Source Code/chapter5/__init__.py
+		size:0 Bytes
+		created:Thu Sep 10 10:20:43 2015
+		modified:Tue Nov 18 19:23:00 2008
+		Access:Thu Sep 10 10:20:43 2015
+-----------------------------------------------------------------------------------
+
+FILE21#../Source Code/chapter5/forms.py
+		size:327 Bytes
+		created:Thu Sep 10 10:20:43 2015
+		modified:Tue Nov 18 19:37:52 2008
+		Access:Thu Sep 10 10:20:43 2015
+-----------------------------------------------------------------------------------
+
+FILE22#../Source Code/chapter5/pend_form/models.py
+		size:327 Bytes
+		created:Thu Sep 10 10:20:43 2015
+		modified:Fri Nov 21 21:42:36 2008
+		Access:Thu Sep 10 10:20:43 2015
+-----------------------------------------------------------------------------------
+
+FILE23#../Source Code/chapter5/pend_form/__init__.py
+		size:0 Bytes
+		created:Thu Sep 10 10:20:43 2015
+		modified:Tue Nov 18 19:42:00 2008
+		Access:Thu Sep 10 10:20:43 2015
+-----------------------------------------------------------------------------------
+
+FILE24#../Source Code/chapter5/pend_form/decorators.py
+		size:983 Bytes
+		created:Thu Sep 10 10:20:43 2015
+		modified:Tue Nov 18 19:53:14 2008
+		Access:Thu Sep 10 10:20:43 2015
+-----------------------------------------------------------------------------------
+
+FILE25#../Source Code/chapter5/pend_form/forms.py
+		size:1.12 KB
+		created:Thu Sep 10 10:20:43 2015
+		modified:Fri Nov 21 21:41:06 2008
+		Access:Thu Sep 10 10:20:43 2015
+-----------------------------------------------------------------------------------
+
+FILE26#../Source Code/chapter7/middleware.py
+		size:434 Bytes
+		created:Thu Sep 10 10:20:43 2015
+		modified:Thu Nov 20 07:31:26 2008
+		Access:Thu Sep 10 10:20:43 2015
+-----------------------------------------------------------------------------------
+
+FILE27#../Source Code/chapter7/__init__.py
+		size:0 Bytes
+		created:Thu Sep 10 10:20:43 2015
+		modified:Thu Nov 20 07:29:10 2008
+		Access:Thu Sep 10 10:20:43 2015
+-----------------------------------------------------------------------------------
+
+FILE28#../Source Code/chapter7/signedcookies/middleware.py
+		size:1.85 KB
+		created:Thu Sep 10 10:20:43 2015
+		modified:Thu Nov 20 07:39:00 2008
+		Access:Thu Sep 10 10:20:43 2015
+-----------------------------------------------------------------------------------
+
+FILE29#../Source Code/chapter7/signedcookies/__init__.py
+		size:0 Bytes
+		created:Thu Sep 10 10:20:43 2015
+		modified:Thu Nov 20 07:36:18 2008
+		Access:Thu Sep 10 10:20:43 2015
+-----------------------------------------------------------------------------------
+
+FILE30#../Source Code/chapter10/__init__.py
+		size:0 Bytes
+		created:Thu Sep 10 10:20:43 2015
+		modified:Mon Nov 24 18:21:44 2008
+		Access:Thu Sep 10 10:20:43 2015
+-----------------------------------------------------------------------------------
+
+FILE31#../Source Code/chapter10/properties/urls.py
+		size:576 Bytes
+		created:Thu Sep 10 10:20:43 2015
+		modified:Mon Nov 24 19:00:42 2008
+		Access:Thu Sep 10 10:20:43 2015
+-----------------------------------------------------------------------------------
+
+FILE32#../Source Code/chapter10/properties/models.py
+		size:2.54 KB
+		created:Thu Sep 10 10:20:43 2015
+		modified:Mon Nov 24 19:35:28 2008
+		Access:Thu Sep 10 10:20:43 2015
+-----------------------------------------------------------------------------------
+
+FILE33#../Source Code/chapter10/properties/__init__.py
+		size:0 Bytes
+		created:Thu Sep 10 10:20:43 2015
+		modified:Mon Nov 24 18:21:44 2008
+		Access:Thu Sep 10 10:20:43 2015
+-----------------------------------------------------------------------------------
+
+FILE34#../Source Code/chapter10/properties/admin.py
+		size:1.38 KB
+		created:Thu Sep 10 10:20:43 2015
+		modified:Mon Nov 24 18:59:40 2008
+		Access:Thu Sep 10 10:20:43 2015
+-----------------------------------------------------------------------------------
+
+FILE35#../Source Code/chapter10/contacts/urls.py
+		size:833 Bytes
+		created:Thu Sep 10 10:20:43 2015
+		modified:Mon Nov 24 18:55:50 2008
+		Access:Thu Sep 10 10:20:43 2015
+-----------------------------------------------------------------------------------
+
+FILE36#../Source Code/chapter10/contacts/models.py
+		size:901 Bytes
+		created:Thu Sep 10 10:20:43 2015
+		modified:Mon Nov 24 19:38:24 2008
+		Access:Thu Sep 10 10:20:43 2015
+-----------------------------------------------------------------------------------
+
+FILE37#../Source Code/chapter10/contacts/views.py
+		size:1.51 KB
+		created:Thu Sep 10 10:20:43 2015
+		modified:Mon Nov 24 18:55:58 2008
+		Access:Thu Sep 10 10:20:43 2015
+-----------------------------------------------------------------------------------
+
+FILE38#../Source Code/chapter10/contacts/__init__.py
+		size:0 Bytes
+		created:Thu Sep 10 10:20:43 2015
+		modified:Mon Nov 24 18:21:44 2008
+		Access:Thu Sep 10 10:20:43 2015
+-----------------------------------------------------------------------------------
+
+FILE39#../Source Code/chapter10/contacts/admin.py
+		size:171 Bytes
+		created:Thu Sep 10 10:20:43 2015
+		modified:Mon Nov 24 18:55:04 2008
+		Access:Thu Sep 10 10:20:43 2015
+-----------------------------------------------------------------------------------
+
+FILE40#../Source Code/chapter10/contacts/forms.py
+		size:648 Bytes
+		created:Thu Sep 10 10:20:43 2015
+		modified:Mon Nov 24 18:55:10 2008
+		Access:Thu Sep 10 10:20:43 2015
+-----------------------------------------------------------------------------------
+
+FILE41#../Source Code/chapter8/context_processors.py
+		size:81 Bytes
+		created:Thu Sep 10 10:20:43 2015
+		modified:Fri Nov 21 21:51:58 2008
+		Access:Thu Sep 10 10:20:43 2015
+-----------------------------------------------------------------------------------
+
+FILE42#../Source Code/chapter8/virushandler.py
+		size:1.31 KB
+		created:Thu Sep 10 10:20:43 2015
+		modified:Fri Nov 21 22:09:46 2008
+		Access:Thu Sep 10 10:20:43 2015
+-----------------------------------------------------------------------------------
+
+FILE43#../Source Code/chapter8/__init__.py
+		size:0 Bytes
+		created:Thu Sep 10 10:20:43 2015
+		modified:Fri Nov 21 21:51:14 2008
+		Access:Thu Sep 10 10:20:43 2015
+-----------------------------------------------------------------------------------
+
+FILE44#../Source Code/chapter8/jinja/jinjaloader.py
+		size:869 Bytes
+		created:Thu Sep 10 10:20:43 2015
+		modified:Fri Nov 21 22:06:34 2008
+		Access:Thu Sep 10 10:20:43 2015
+-----------------------------------------------------------------------------------
+
+FILE45#../Source Code/chapter8/jinja/__init__.py
+		size:0 Bytes
+		created:Thu Sep 10 10:20:43 2015
+		modified:Fri Nov 21 21:52:26 2008
+		Access:Thu Sep 10 10:20:43 2015
+-----------------------------------------------------------------------------------
+
+FILE46#../Source Code/chapter8/jinja/templatetags/jinja.py
+		size:751 Bytes
+		created:Thu Sep 10 10:20:43 2015
+		modified:Fri Nov 21 22:05:58 2008
+		Access:Thu Sep 10 10:20:43 2015
+-----------------------------------------------------------------------------------
+
+FILE47#../Source Code/chapter8/jinja/templatetags/__init__.py
+		size:0 Bytes
+		created:Thu Sep 10 10:20:43 2015
+		modified:Fri Nov 21 21:52:38 2008
+		Access:Thu Sep 10 10:20:43 2015
+-----------------------------------------------------------------------------------
+
+FILE48#../Source Code/chapter2/decorator.py
+		size:1.13 KB
+		created:Thu Sep 10 10:20:43 2015
+		modified:Thu Nov  6 23:40:40 2008
+		Access:Thu Sep 10 10:20:43 2015
+-----------------------------------------------------------------------------------
+
+FILE49#../Source Code/chapter2/plugins.py
+		size:2.52 KB
+		created:Thu Sep 10 10:20:43 2015
+		modified:Thu Nov  6 23:54:30 2008
+		Access:Thu Sep 10 10:20:43 2015
+-----------------------------------------------------------------------------------
+
+FILE50#../Source Code/chapter2/fibonacci.py
+		size:867 Bytes
+		created:Thu Sep 10 10:20:43 2015
+		modified:Thu Nov  6 23:40:14 2008
+		Access:Thu Sep 10 10:20:43 2015
+-----------------------------------------------------------------------------------
+
+FILE51#../Source Code/chapter2/__init__.py
+		size:0 Bytes
+		created:Thu Sep 10 10:20:43 2015
+		modified:Thu Nov  6 23:06:18 2008
+		Access:Thu Sep 10 10:20:43 2015
+-----------------------------------------------------------------------------------
+
+FILE52#../Source Code/chapter2/tracking.py
+		size:555 Bytes
+		created:Thu Sep 10 10:20:43 2015
+		modified:Thu Nov  6 23:35:42 2008
+		Access:Thu Sep 10 10:20:43 2015
+-----------------------------------------------------------------------------------
+
+FILE53#../Source Code/chapter3/createmodel.py
+		size:302 Bytes
+		created:Thu Sep 10 10:20:43 2015
+		modified:Fri Nov  7 22:32:10 2008
+		Access:Thu Sep 10 10:20:43 2015
+-----------------------------------------------------------------------------------
+
+FILE54#../Source Code/chapter3/durationfield.py
+		size:1.92 KB
+		created:Thu Sep 10 10:20:43 2015
+		modified:Fri Nov  7 22:22:22 2008
+		Access:Thu Sep 10 10:20:43 2015
+-----------------------------------------------------------------------------------
+
+FILE55#../Source Code/chapter3/picklefield.py
+		size:1.27 KB
+		created:Thu Sep 10 10:20:43 2015
+		modified:Fri Nov  7 22:30:20 2008
+		Access:Thu Sep 10 10:20:43 2015
+-----------------------------------------------------------------------------------
+
+FILE56#../Source Code/chapter3/appreport.py
+		size:1.09 KB
+		created:Thu Sep 10 10:20:43 2015
+		modified:Fri Nov  7 22:27:48 2008
+		Access:Thu Sep 10 10:20:43 2015
+-----------------------------------------------------------------------------------
+
+FILE57#../Source Code/chapter3/__init__.py
+		size:0 Bytes
+		created:Thu Sep 10 10:20:43 2015
+		modified:Fri Nov 21 21:27:34 2008
+		Access:Thu Sep 10 10:20:43 2015
+-----------------------------------------------------------------------------------
+
+FILE58#../Source Code/chapter6/__init__.py
+		size:0 Bytes
+		created:Thu Sep 10 10:20:43 2015
+		modified:Fri Nov 21 21:27:56 2008
+		Access:Thu Sep 10 10:20:43 2015
+-----------------------------------------------------------------------------------
+
+FILE59#../Source Code/chapter6/templates/base.html
+		size:180 Bytes
+		created:Thu Sep 10 10:20:43 2015
+		modified:Wed Nov 12 23:26:30 2008
+		Access:Thu Sep 10 10:20:43 2015
+-----------------------------------------------------------------------------------
+
+FILE60#../Source Code/chapter6/templates/index.html
+		size:330 Bytes
+		created:Thu Sep 10 10:20:43 2015
+		modified:Wed Nov 12 23:27:12 2008
+		Access:Thu Sep 10 10:20:43 2015
+-----------------------------------------------------------------------------------
+
+FILE61#../Source Code/chapter6/themes/context_processors.py
+		size:492 Bytes
+		created:Thu Sep 10 10:20:43 2015
+		modified:Fri Nov 21 21:29:48 2008
+		Access:Thu Sep 10 10:20:43 2015
+-----------------------------------------------------------------------------------
+
+FILE62#../Source Code/chapter6/themes/models.py
+		size:1.43 KB
+		created:Thu Sep 10 10:20:43 2015
+		modified:Fri Nov 21 21:30:40 2008
+		Access:Thu Sep 10 10:20:43 2015
+-----------------------------------------------------------------------------------
+
+FILE63#../Source Code/chapter6/themes/manager.py
+		size:661 Bytes
+		created:Thu Sep 10 10:20:43 2015
+		modified:Wed Nov 12 22:01:10 2008
+		Access:Thu Sep 10 10:20:43 2015
+-----------------------------------------------------------------------------------
+
+FILE64#../Source Code/chapter6/themes/__init__.py
+		size:0 Bytes
+		created:Thu Sep 10 10:20:43 2015
+		modified:Fri Nov 21 21:29:12 2008
+		Access:Thu Sep 10 10:20:43 2015
+-----------------------------------------------------------------------------------
+
+FILE65#../Source Code/chapter6/themes/forms.py
+		size:2.57 KB
+		created:Thu Sep 10 10:20:43 2015
+		modified:Fri Nov 21 21:29:40 2008
+		Access:Thu Sep 10 10:20:43 2015
+-----------------------------------------------------------------------------------
+
+FILE66#../Source Code/chapter6/themes/fixtures/example.json
+		size:361 Bytes
+		created:Thu Sep 10 10:20:43 2015
+		modified:Fri Nov 21 21:34:22 2008
+		Access:Thu Sep 10 10:20:43 2015
+-----------------------------------------------------------------------------------
+
+FILE67#../Source Code/chapter6/templatetags/simple_tags.py
+		size:130 Bytes
+		created:Thu Sep 10 10:20:43 2015
+		modified:Tue Nov 11 21:47:42 2008
+		Access:Thu Sep 10 10:20:43 2015
+-----------------------------------------------------------------------------------
+
+FILE68#../Source Code/chapter6/templatetags/tags.py
+		size:441 Bytes
+		created:Thu Sep 10 10:20:43 2015
+		modified:Tue Nov 11 21:47:46 2008
+		Access:Thu Sep 10 10:20:43 2015
+-----------------------------------------------------------------------------------
+
+FILE69#../Source Code/chapter6/templatetags/jinja.py
+		size:2.19 KB
+		created:Thu Sep 10 10:20:43 2015
+		modified:Tue Nov 11 22:20:06 2008
+		Access:Thu Sep 10 10:20:43 2015
+-----------------------------------------------------------------------------------
+
+FILE70#../Source Code/chapter6/templatetags/filters.py
+		size:291 Bytes
+		created:Thu Sep 10 10:20:43 2015
+		modified:Tue Nov 11 21:39:04 2008
+		Access:Thu Sep 10 10:20:43 2015
+-----------------------------------------------------------------------------------
+Total Directories : 22
+Total Files : 70
+Total Size : 51.83 KB

@@ -1,0 +1,11 @@
+#!/usr/bin/python
+
+input_time=raw_input()
+if input_time.find('AM')>-1:
+   for i in input_time.strip('AM').split(':'):
+       hh=i
+elif input_time.find('PM')>-1:
+   input_time.strip('PM').split(':')
+else:
+   print "INVALID time format"
+
