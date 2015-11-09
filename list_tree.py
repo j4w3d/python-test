@@ -20,6 +20,8 @@ def sizeformat(data):
          
          return str(data)+" Bytes"
 
+
+dir_path='/path/to/directory'
 i=1
 l=0
 fs1=open('skeleton.txt','w')
@@ -27,7 +29,7 @@ fs2=open('files_info.txt','w')
 total_size=0
 total_files=0
 total_dirs=0
-for root,dir,files in os.walk('../Source Code'):
+for root,dir,files in os.walk(dir_path):
     if i==1:
       l=(len(root.split('/')))
       root_data=root.split('/')[-1]
